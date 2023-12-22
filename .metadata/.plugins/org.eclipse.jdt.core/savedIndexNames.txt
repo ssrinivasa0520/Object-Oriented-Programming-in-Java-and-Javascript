@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\zoope\OneDrive\Desktop\STUDENT\UAB\FALL 2022\CS 203\.metadata\.plugins\org.eclipse.jdt.core
+3316466471.index
+314568331.index
+1007340512.index
